@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/DenebClone/static/css/main.02a81e73.css",
+    "main.js": "/DenebClone/static/js/main.7927d8f8.js",
+    "index.html": "/DenebClone/index.html",
+    "main.02a81e73.css.map": "/DenebClone/static/css/main.02a81e73.css.map",
+    "main.7927d8f8.js.map": "/DenebClone/static/js/main.7927d8f8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02a81e73.css",
+    "static/js/main.7927d8f8.js"
+  ]
+}
